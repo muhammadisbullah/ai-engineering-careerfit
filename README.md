@@ -2,7 +2,21 @@
 > An AI-powered, document-grounded assistant that matches fresh graduates and job seekers with relevant career opportunities and identifies skill gaps using official occupational frameworks.
 
 ## Problem Statement
-Fresh graduates and job seekers frequently face skill-related underemployment due to a lack of visibility into real-world job requirements and skill expectations. Conversely, employers receive vast volumes of misaligned applications. CareerFit AI provides a data-grounded, 24/7 intelligent assistant that evaluates user qualifications against national occupational standards and identifies exact upskilling needs.
+The palm oil industry generates massive volumes of solid biomass and waste, such as Empty Fruit Bunches (EFB) and Palm Oil Mill Effluent (POME) (Norrahim et al., 2022; Kan et al., 2024). However, conventional mill operations face inefficiencies in raw material utilization and lack an automated system to convert low-value waste into high-value downstream products (Dominic & Baidurah, 2025; Norrahim et al., 2022). Furthermore, there is a critical technological gap: the absence of an integrated predictive decision support system that processes real-time operational data alongside historical records to optimize waste mixture ratios and evaluate their economic potential (Kan et al., 2024; Dominic & Baidurah, 2025).
+
+## Proposed Solution:
+This project proposes a hybrid data pipeline and AI-driven decision support system integrating real-time IoT sensor data (moisture, weight, temperature) with historical batch logs. Using machine learning and optimization algorithms, the system dynamically predicts optimal downstream products from palm waste, determines ideal mixture formulations, and evaluates net economic returns to reduce waste and maximize resource efficiency (Kan et al., 2024; Dominic & Baidurah,
+2025).
+
+REFERENCES:
+Dominic, D., & Baidurah, S. (2025). A review of biological processing technologies for palm oil
+mill waste treatment and simultaneous bioenergy production with technoeconomic analysis.
+Energy Conversion and Management: X, 100914
+Kan, K. W., Chan, Y. J., Tiong, T. J., & Lim, J. W. (2024). Maximizing biogas yield from palm oil
+mill effluent (POME) through advanced simulation and optimization techniques on an industrial
+scale. Chemical Engineering Science, 285, 119644.
+Norrahim, M. N. F., et al. (2022). Emerging technologies for value-added use of oil palm biomass.
+Environmental Science and Pollution Research, 29, 62112–62130.
 
 ## Evidence of the Problem
 - **Underemployment:** Official statistics indicate persistent skill-related underemployment among tertiary graduates due to structural mismatches between education outputs and industry needs (DOSM Graduates Statistics Report).
