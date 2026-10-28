@@ -31,9 +31,10 @@ Environmental Science and Pollution Research, 29, 62112–62130.
 Current solutions lack a transparent, document-grounded mechanism that maps individual academic profiles directly to standardized national occupational frameworks (e.g., MASCO / COL) to provide hallucination-free career alignment and upskilling guidance.
 
 ## Project Objectives
-- **O1:** Design a document-grounded AI alignment assistant based on official workforce and occupational frameworks.
-- **O2:** Develop the retrieval pipeline with domain-specific guardrails to ensure grounded recommendations.
-- **O3:** Evaluate the system on retrieval precision, groundedness, latency, and fairness.
+- **O1:** Developing data pipelines to process palm oil production and waste data.
+- **O2:** Developing a prediction/optimization model to determine alternative downstream
+products from waste materials.
+- **O3:** Assessing economic potential and cost savings through the proposed model.
 
 ## Target Users
 - Fresh university graduates seeking entry-level positions matched to their skills.
